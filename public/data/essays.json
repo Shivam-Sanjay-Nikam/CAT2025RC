@@ -1,0 +1,75 @@
+{
+  "essays": [
+    {
+      "id": "essay-001",
+      "title": "Divine Dividends: How Chinese Religious Traditions Shape Corporate Generosity",
+      "contentFile": "essays/essay-001.txt",
+      "wordCount": 150,
+      "difficulty": "Medium",
+      "timeLimit": 12,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+            "id": "q-001",
+            "question": "What central argument does the essay make about Chinese corporate behaviour?",
+            "options": [
+              { "id": "a1", "text": "Corporate decisions are shaped only by regulations and profit motives.", "isCorrect": false },
+              { "id": "a2", "text": "Religious and cultural traditions influence financial practices such as dividend payments.", "isCorrect": true },
+              { "id": "a3", "text": "Chinese firms rarely pay dividends regardless of circumstances.", "isCorrect": false },
+              { "id": "a4", "text": "Only Western values shape modern capitalism.", "isCorrect": false }
+            ]
+          },
+          {
+            "id": "q-002",
+            "question": "Which religious tradition had the stronger influence on dividend generosity according to the study?",
+            "options": [
+              { "id": "b1", "text": "Taoism, because it values balance.", "isCorrect": false },
+              { "id": "b2", "text": "Buddhism, because it emphasizes giving and karma.", "isCorrect": true },
+              { "id": "b3", "text": "Confucianism, because it values hierarchy.", "isCorrect": false },
+              { "id": "b4", "text": "Christianity, because of the Protestant ethic.", "isCorrect": false }
+            ]
+          },
+          {
+            "id": "q-003",
+            "question": "Why were state-owned enterprises less influenced by local religious values?",
+            "options": [
+              { "id": "c1", "text": "They are primarily guided by international investors.", "isCorrect": false },
+              { "id": "c2", "text": "Their dividend policies are tied to government goals, limiting cultural influence.", "isCorrect": true },
+              { "id": "c3", "text": "They lack exposure to nearby temples.", "isCorrect": false },
+              { "id": "c4", "text": "They are forbidden from paying dividends.", "isCorrect": false }
+            ]
+          },
+          {
+            "id": "q-004",
+            "question": "How did religion serve as an informal governance mechanism in Chinese firms?",
+            "options": [
+              { "id": "d1", "text": "By replacing all formal legal frameworks.", "isCorrect": false },
+              { "id": "d2", "text": "By discouraging exploitation and promoting fairness, even where legal enforcement was weak.", "isCorrect": true },
+              { "id": "d3", "text": "By mandating dividend payments through temple rules.", "isCorrect": false },
+              { "id": "d4", "text": "By reducing the role of shareholders altogether.", "isCorrect": false }
+            ]
+          },
+          {
+            "id": "q-005",
+            "question": "What is meant by the essay’s statement that ‘culture is the software and policy is the hardware’?",
+            "options": [
+              { "id": "e1", "text": "Policies determine dividend size, while culture controls profitability.", "isCorrect": false },
+              { "id": "e2", "text": "Both cultural norms and formal regulations must align for smooth corporate governance.", "isCorrect": true },
+              { "id": "e3", "text": "Culture completely overrides policy in shaping firms.", "isCorrect": false },
+              { "id": "e4", "text": "Policies are temporary, while culture is irrelevant.", "isCorrect": false }
+            ]
+          },
+          {
+            "id": "q-006",
+            "question": "Which of the following best captures the broader implication of the essay?",
+            "options": [
+              { "id": "f1", "text": "Capitalism everywhere functions independently of cultural and ethical traditions.", "isCorrect": false },
+              { "id": "f2", "text": "Religious and cultural traditions can make capitalism more ethical and sustainable.", "isCorrect": true },
+              { "id": "f3", "text": "Only Asian capitalism is influenced by religion.", "isCorrect": false },
+              { "id": "f4", "text": "Dividend payments are irrelevant to corporate ethics.", "isCorrect": false }
+            ]
+          }
+      ]
+    }
+  ]
+}

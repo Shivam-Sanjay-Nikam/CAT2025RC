@@ -1,0 +1,35 @@
+{
+  "essays": [
+    {
+      "id": "unique-id-here",
+      "title": "Your Essay Title Here",
+      "contentFile": "essays/your-essay-file.txt",
+      "wordCount": 0,
+      "difficulty": "Easy|Medium|Hard",
+      "timeLimit": 10,
+      "createdAt": "2024-01-15",
+      "questions": [
+        {
+          "id": "q-unique-id-1",
+          "question": "Your question text here?",
+          "options": [
+            { "id": "a1", "text": "Option 1", "isCorrect": false },
+            { "id": "a2", "text": "Option 2", "isCorrect": true },
+            { "id": "a3", "text": "Option 3", "isCorrect": false },
+            { "id": "a4", "text": "Option 4", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "q-unique-id-2",
+          "question": "Your second question here?",
+          "options": [
+            { "id": "b1", "text": "Option 1", "isCorrect": false },
+            { "id": "b2", "text": "Option 2", "isCorrect": false },
+            { "id": "b3", "text": "Option 3", "isCorrect": true },
+            { "id": "b4", "text": "Option 4", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
