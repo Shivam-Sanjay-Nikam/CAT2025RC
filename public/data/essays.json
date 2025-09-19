@@ -10,65 +10,829 @@
       "createdAt": "2025-09-19",
       "questions": [
         {
-            "id": "q-001",
-            "question": "What central argument does the essay make about Chinese corporate behaviour?",
-            "options": [
-              { "id": "a1", "text": "Corporate decisions are shaped only by regulations and profit motives.", "isCorrect": false },
-              { "id": "a2", "text": "Religious and cultural traditions influence financial practices such as dividend payments.", "isCorrect": true },
-              { "id": "a3", "text": "Chinese firms rarely pay dividends regardless of circumstances.", "isCorrect": false },
-              { "id": "a4", "text": "Only Western values shape modern capitalism.", "isCorrect": false }
-            ]
-          },
-          {
-            "id": "q-002",
-            "question": "Which religious tradition had the stronger influence on dividend generosity according to the study?",
-            "options": [
-              { "id": "b1", "text": "Taoism, because it values balance.", "isCorrect": false },
-              { "id": "b2", "text": "Buddhism, because it emphasizes giving and karma.", "isCorrect": true },
-              { "id": "b3", "text": "Confucianism, because it values hierarchy.", "isCorrect": false },
-              { "id": "b4", "text": "Christianity, because of the Protestant ethic.", "isCorrect": false }
-            ]
-          },
-          {
-            "id": "q-003",
-            "question": "Why were state-owned enterprises less influenced by local religious values?",
-            "options": [
-              { "id": "c1", "text": "They are primarily guided by international investors.", "isCorrect": false },
-              { "id": "c2", "text": "Their dividend policies are tied to government goals, limiting cultural influence.", "isCorrect": true },
-              { "id": "c3", "text": "They lack exposure to nearby temples.", "isCorrect": false },
-              { "id": "c4", "text": "They are forbidden from paying dividends.", "isCorrect": false }
-            ]
-          },
-          {
-            "id": "q-004",
-            "question": "How did religion serve as an informal governance mechanism in Chinese firms?",
-            "options": [
-              { "id": "d1", "text": "By replacing all formal legal frameworks.", "isCorrect": false },
-              { "id": "d2", "text": "By discouraging exploitation and promoting fairness, even where legal enforcement was weak.", "isCorrect": true },
-              { "id": "d3", "text": "By mandating dividend payments through temple rules.", "isCorrect": false },
-              { "id": "d4", "text": "By reducing the role of shareholders altogether.", "isCorrect": false }
-            ]
-          },
-          {
-            "id": "q-005",
-            "question": "What is meant by the essay’s statement that ‘culture is the software and policy is the hardware’?",
-            "options": [
-              { "id": "e1", "text": "Policies determine dividend size, while culture controls profitability.", "isCorrect": false },
-              { "id": "e2", "text": "Both cultural norms and formal regulations must align for smooth corporate governance.", "isCorrect": true },
-              { "id": "e3", "text": "Culture completely overrides policy in shaping firms.", "isCorrect": false },
-              { "id": "e4", "text": "Policies are temporary, while culture is irrelevant.", "isCorrect": false }
-            ]
-          },
-          {
-            "id": "q-006",
-            "question": "Which of the following best captures the broader implication of the essay?",
-            "options": [
-              { "id": "f1", "text": "Capitalism everywhere functions independently of cultural and ethical traditions.", "isCorrect": false },
-              { "id": "f2", "text": "Religious and cultural traditions can make capitalism more ethical and sustainable.", "isCorrect": true },
-              { "id": "f3", "text": "Only Asian capitalism is influenced by religion.", "isCorrect": false },
-              { "id": "f4", "text": "Dividend payments are irrelevant to corporate ethics.", "isCorrect": false }
-            ]
-          }
+          "id": "q-001",
+          "question": "What central argument does the essay make about Chinese corporate behaviour?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Corporate decisions are shaped only by regulations and profit motives.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Religious and cultural traditions influence financial practices such as dividend payments.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Chinese firms rarely pay dividends regardless of circumstances.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Only Western values shape modern capitalism.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which religious tradition had the stronger influence on dividend generosity according to the study?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Taoism, because it values balance.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Buddhism, because it emphasizes giving and karma.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Confucianism, because it values hierarchy.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Christianity, because of the Protestant ethic.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why were state-owned enterprises less influenced by local religious values?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They are primarily guided by international investors.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Their dividend policies are tied to government goals, limiting cultural influence.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They lack exposure to nearby temples.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They are forbidden from paying dividends.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did religion serve as an informal governance mechanism in Chinese firms?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "By replacing all formal legal frameworks.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "By discouraging exploitation and promoting fairness, even where legal enforcement was weak.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "By mandating dividend payments through temple rules.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "By reducing the role of shareholders altogether.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is meant by the essay’s statement that ‘culture is the software and policy is the hardware’?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Policies determine dividend size, while culture controls profitability.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Both cultural norms and formal regulations must align for smooth corporate governance.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Culture completely overrides policy in shaping firms.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Policies are temporary, while culture is irrelevant.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "Which of the following best captures the broader implication of the essay?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Capitalism everywhere functions independently of cultural and ethical traditions.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Religious and cultural traditions can make capitalism more ethical and sustainable.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Only Asian capitalism is influenced by religion.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Dividend payments are irrelevant to corporate ethics.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-002",
+      "title": "Joseph Wright of Derby: Painting the Age of Enlightenment",
+      "contentFile": "essays/essay-002.txt",
+      "wordCount": 160,
+      "difficulty": "Hard",
+      "timeLimit": 14,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central theme connects Joseph Wright’s famous works such as the Orrery and the Air Pump?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "The dominance of religious symbolism in art.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "The integration of science and Enlightenment ideas into painting.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "The glorification of political leaders.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "The focus on natural landscapes only.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which artistic technique did Wright famously use to dramatize scientific demonstrations?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Fresco painting.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Chiaroscuro, inspired by Caravaggio’s use of candlelight.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Cubism with geometric abstraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Watercolour washes for light effects.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why was Joseph Wright never fully accepted into the Royal Academy?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "His subject matter did not fit into traditional categories like history or religion.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "He only painted landscapes and portraits.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "He worked exclusively in Rome.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "He lacked technical painting skills.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did Wright’s works reflect the philosophical idea of the Sublime?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "By showing the insignificance of mankind against vast cosmic forces.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "By celebrating the authority of the monarchy.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "By focusing only on decorative beauty.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "By rejecting all scientific themes.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What role did Derby and the Lunar Society play in Wright’s career?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "They connected him with leading scientists and industrialists who inspired his art.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "They provided him with commissions for royal portraits.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "They trained him in fresco painting.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "They discouraged him from painting science.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the significance of Wright’s Orrery painting today?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "It symbolizes how art captured Enlightenment science and is now a centrepiece of Derby Museum.",
+              "isCorrect": true
+            },
+            {
+              "id": "f2",
+              "text": "It demonstrates the decline of scientific thought in Britain.",
+              "isCorrect": false
+            },
+            {
+              "id": "f3",
+              "text": "It is considered Wright’s only landscape work.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "It was rejected and destroyed by the Royal Academy.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-003",
+      "title": "Hidden Fire: El Chichón and the Global Risks of Volcanoes",
+      "contentFile": "essays/essay-003.txt",
+      "wordCount": 1520,
+      "difficulty": "Hard",
+      "timeLimit": 20,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "Why was the eruption of El Chichón in 1982 particularly surprising?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "It erupted sideways, similar to Mount St Helens.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "It had been quiet for centuries, with little to no prior monitoring or warning signs.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "It was the largest eruption ever recorded.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "It occurred in a densely monitored and well-prepared region.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "What global consequence followed the El Chichón eruption?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "It permanently increased Earth’s temperature.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "It caused volcanic particles to settle only within Mexico.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "It triggered atmospheric cooling and contributed to a devastating drought in East Africa.",
+              "isCorrect": true
+            },
+            {
+              "id": "b4",
+              "text": "It initiated a new ice age across both hemispheres.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why are many dangerous volcanoes overlooked in global monitoring efforts?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They erupt too frequently to be studied effectively.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Scientific and media attention tends to focus on famous volcanoes with frequent eruptions.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They are only located in uninhabited regions.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They are mostly underwater and impossible to measure.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What makes forecasting volcanic eruptions so difficult, even with instruments?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Most warning signs always lead to eruptions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Many unrest signals never culminate in eruptions, and volcanoes can erupt with very short warning times.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Technology cannot detect earthquakes or gas emissions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Volcanoes in populated areas behave completely predictably.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What broader lesson does El Chichón teach about volcanic risk?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Only active, frequently erupting volcanoes pose real danger.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Even quiet, seemingly dormant volcanoes can cause catastrophic global impacts.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Volcanoes are no longer capable of influencing global climate.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Eruptions only matter for local communities, not the wider world.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the purpose of the newly founded Global Volcano Risk Alliance?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "To promote tourism around famous volcanoes.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "To advocate for monitoring, preparedness, and international cooperation on overlooked volcanic threats.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "To fund movies about volcanic disasters.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "To permanently prevent volcanic eruptions through technology.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-004",
+      "title": "Katie Brandt: From Personal Tragedy to Caregiver Advocacy",
+      "contentFile": "essays/essay-004.txt",
+      "wordCount": 150,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What early signs of Mike’s illness did Katie notice before his diagnosis?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "He had severe memory loss.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "He became indifferent, compulsive, and showed personality changes.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "He began experiencing hallucinations.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "He lost the ability to walk.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why was Mike’s illness initially misdiagnosed?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Frontotemporal dementia symptoms mimic depression and stress.",
+              "isCorrect": true
+            },
+            {
+              "id": "b2",
+              "text": "The disease progresses too quickly to detect.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "Katie did not seek medical help until very late.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "MRI scans always confirm frontotemporal dementia.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "How is frontotemporal dementia different from Alzheimer’s in its early stages?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "FTD primarily affects memory, while Alzheimer’s changes personality first.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "FTD preserves memory initially but alters personality and judgment.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "FTD and Alzheimer’s show identical symptoms.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "FTD only affects the elderly, while Alzheimer’s affects the young.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What turning point pushed Katie into advocacy work?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Mike’s sudden recovery inspired her to help others.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Her grief after Mike’s death led her to volunteer and later become an advocate.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "She received government funding for a new project.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Her father encouraged her to pursue caregiving.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What policy change in 2020 was significant for caregivers like Katie?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Expansion of Medicare to all caregivers regardless of income.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "The Older Americans Act allowed dementia patients under 60 to access support programs.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "The Affordable Care Act created free dementia clinics nationwide.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "All caregivers were given direct financial stipends by the government.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What broader lesson does Katie’s story highlight about caregiving?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Caregiving is primarily a medical challenge.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Caregiving is as much about systemic support and recognition as medical treatment.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Caregiving always leads to financial stability for families.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Caregiving problems are already fully addressed by current systems.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-005",
+      "title": "The Big Bang Theory: Origins, Evidence, and Challenges",
+      "contentFile": "essays/essay-005.txt",
+      "wordCount": 150,
+      "difficulty": "Easy",
+      "timeLimit": 10,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What observation by Edwin Hubble and Milton Humason supported the idea of an expanding universe?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Stars in the Milky Way were moving closer together.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Galaxies were moving away at speeds proportional to their distances.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "The Sun’s orbit around the galaxy was slowing down.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Dark matter halos were discovered.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why was anisotropy (tiny irregularities in matter distribution) essential in the early universe?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "It allowed gravity to create stars and galaxies.",
+              "isCorrect": true
+            },
+            {
+              "id": "b2",
+              "text": "It stopped the universe from collapsing.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "It explained the presence of dark energy.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "It prevented cosmic inflation.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What discovery by Penzias and Wilson in 1964 provided strong evidence for the Big Bang?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "The first spiral galaxy rotation curves.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "The cosmic microwave background radiation.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Dark matter halos around galaxies.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "The accelerating expansion of the universe.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What is the role of dark matter in galaxy formation?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It slows down cosmic expansion.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "It provides the gravitational framework for galaxies to form and rotate correctly.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "It emits radiation detected as the CMB.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It prevents anisotropies from forming.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What unexpected discovery in the late 1990s led to the revival of Einstein’s cosmological constant?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "The universe’s expansion was accelerating, not slowing down.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "The universe was shrinking in size.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Dark matter could explain all missing mass.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "The CMB temperature was higher than predicted.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What current challenge is referred to as the 'Hubble tension'?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Disagreement between early and late universe measurements of the Hubble constant.",
+              "isCorrect": true
+            },
+            {
+              "id": "f2",
+              "text": "The inability to detect dark matter directly.",
+              "isCorrect": false
+            },
+            {
+              "id": "f3",
+              "text": "The discovery of gravitational waves contradicting inflation.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Supernovae no longer acting as reliable standard candles.",
+              "isCorrect": false
+            }
+          ]
+        }
       ]
     }
   ]

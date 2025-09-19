@@ -143,10 +143,6 @@ const EssayPage: React.FC<EssayPageProps> = ({ essayId, onBack, onShowResults })
             <div className="text-sm text-slate-500 flex gap-6 font-light">
               <span className="flex items-center gap-1">
                 <div className="w-2 h-2 bg-slate-400 rounded-full"></div>
-                {essay.wordCount} words
-              </span>
-              <span className="flex items-center gap-1">
-                <div className="w-2 h-2 bg-slate-400 rounded-full"></div>
                 {essay.difficulty} Level
               </span>
               <span className="flex items-center gap-1">
