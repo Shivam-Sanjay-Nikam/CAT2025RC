@@ -119,10 +119,6 @@ const HomePage: React.FC<HomePageProps> = ({ onSelectEssay }) => {
                   <div className="flex items-center justify-between text-sm text-slate-500 mb-6">
                     <div className="flex items-center gap-6">
                       <span className="flex items-center gap-2">
-                        <BookOpen size={16} />
-                        <span className="font-light">{essay.wordCount} words</span>
-                      </span>
-                      <span className="flex items-center gap-2">
                         <Clock size={16} />
                         <span className="font-light">{essay.timeLimit} minutes</span>
                       </span>
