@@ -834,6 +834,173 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-006",
+      "title": "Quantum Mechanics, Consciousness, and the Forgotten Phenomenology",
+      "contentFile": "essays/essay-003.txt",
+      "wordCount": 150,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-20",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central issue does the 'measurement problem' in quantum mechanics address?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Why quantum mechanics cannot explain atomic structure.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "How a quantum superposition becomes a definite outcome upon measurement.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Why electrons have spin in two forms.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "How lasers and superconductors function.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "According to von Neumann, what collapses a quantum superposition into a definite state?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Random physical noise in the apparatus.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "The observer’s consciousness.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "The laws of classical mechanics.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "External cosmic forces beyond physics.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What concern did Hilary Putnam raise about von Neumann’s argument?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "It made quantum mechanics too mathematical to apply in practice.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "If consciousness is needed, quantum theory cannot be applied to the entire Universe.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "It ignored the role of detectors in experiments.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It conflicted with relativity theory.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did London and Bauer’s 1939 pamphlet reinterpret the measurement process?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "They argued that measurement outcomes are determined by hidden variables.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "They adopted a phenomenological view, where consciousness and the world are correlated.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "They denied that superpositions exist at all.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "They claimed the act of measurement has no philosophical implications.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What role does the ‘faculty of introspection’ play in London and Bauer’s account?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "It mathematically calculates wave functions.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "It allows the observer to reflect, separate from the superposition, and ‘make objective’ a definite outcome.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "It ensures the measurement apparatus behaves classically.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "It removes consciousness from the measurement process.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "Which broader implication does the phenomenological approach to quantum mechanics suggest?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Quantum mechanics should be treated only as a mathematical tool, not a theory of knowledge.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Quantum mechanics embodies our correlative participation with the world, making it a theory of knowledge as well.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Philosophy has no role in understanding physics.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Measurement problems are solved only by technology, not philosophy.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
