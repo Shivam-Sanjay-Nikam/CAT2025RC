@@ -15,7 +15,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSelectEssay }) => {
     const fetchData = async () => {
       try {
         const data = await loadData();
-        setEssays(data.essays);
+        setEssays([...data.essays].reverse());
       } catch (error) {
         console.error('Error loading essays:', error);
       } finally {
