@@ -126,15 +126,11 @@ const HomePage: React.FC = () => {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto mb-12">
             <div className="text-center">
-              <div className="text-3xl font-bold text-indigo-600 mb-2">500+</div>
+              <div className="text-3xl font-bold text-indigo-600 mb-2">Will Add upto 500+</div>
               <div className="text-slate-600">Reading Passages</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-indigo-600 mb-2">95%</div>
-              <div className="text-slate-600">Success Rate</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-indigo-600 mb-2">10k+</div>
+              <div className="text-3xl font-bold text-indigo-600 mb-2">100+ current</div>
               <div className="text-slate-600">Happy Students</div>
             </div>
           </div>
