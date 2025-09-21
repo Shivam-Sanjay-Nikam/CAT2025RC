@@ -1001,6 +1001,852 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-007",
+      "title": "The Double-Edged Sword of Technology in Human Progress",
+      "contentFile": "essays/essay-007.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central paradox about technology does the essay highlight?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Technology is inherently harmful to humanity.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Technology can both empower and endanger human progress.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Technology only benefits economic growth but not society.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Technology solves more problems than it creates.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How has technology acted as a social leveller according to the essay?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By reducing all economic inequalities.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "By making information accessible to marginalized groups and remote learners.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By guaranteeing universal employment opportunities.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By replacing traditional institutions with digital ones.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What is identified as the most pressing concern related to technological inequality?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "The cost of developing artificial intelligence.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "The widening digital divide in access to devices and connectivity.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "The dominance of multinational corporations in tech.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "The complexity of new technologies like quantum computing.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which of the following is cited as a psychological consequence of overdependence on digital technology?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "An increase in physical strength and memory power.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Shortened attention spans and rising anxiety due to social media.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Greater cultural unity across the globe.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "The elimination of misinformation online.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What solution does the essay emphasize to balance opportunities and threats of technology?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Complete rejection of artificial intelligence.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Building digital infrastructure, regulatory frameworks, and promoting digital literacy.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Focusing only on corporate profits to ensure efficiency.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Restricting internet usage to urban populations only.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-008",
+      "title": "Climate Change and the Ethics of Development",
+      "contentFile": "essays/essay-008.txt",
+      "wordCount": 605,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What ethical dilemma does the essay identify at the heart of climate change?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Whether nations should ignore climate change to pursue rapid growth.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "How to balance economic development with environmental responsibility.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Whether developing countries should industrialize at all.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "How to replace GDP as a measure of growth.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why does the essay argue that it is inequitable to expect developing nations to restrict growth?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Because they contribute more emissions than developed nations.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Because developed nations are historically responsible for most greenhouse gas emissions.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Because developing nations lack natural resources.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Because their populations are much smaller than industrialized countries.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What broader redefinition of progress does the essay advocate?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Viewing GDP growth as the sole measure of success.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Balancing economic, social, and environmental dimensions of development.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Focusing only on industrialization and urbanization.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Prioritizing consumerism as a driver of growth.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What role does global cooperation play in addressing climate change according to the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It ensures developing nations can access finance, technology, and support for green transitions.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "It allows developed nations to avoid responsibility for past emissions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "It eliminates the need for domestic policy reforms.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It focuses only on scientific debates about climate change.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "According to the essay, what is the ultimate ethical test posed by climate change?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Whether humanity can safeguard the planet for future generations through cooperation and sustainability.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Whether nations can achieve the highest possible GDP growth.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Whether technological innovation alone can solve the crisis.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Whether citizens can avoid participating in global agreements.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-009",
+      "title": "The Future of Work in the Age of Artificial Intelligence",
+      "contentFile": "essays/essay-009.txt",
+      "wordCount": 615,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What is the central concern raised about AI and employment in the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "AI will make human creativity obsolete.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "AI may eliminate jobs faster than it creates them, causing disruptive transitions.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "AI will only replace manual labor without affecting skilled professions.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "AI will entirely replace governments in decision-making.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How does the essay suggest AI is most likely to impact the future of work?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By rendering humans completely unnecessary in most industries.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "By fostering collaboration where AI handles repetitive tasks and humans focus on creativity and judgment.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By ensuring equal distribution of benefits across all nations automatically.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By replacing emotional intelligence with machine empathy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What inequality risk does the essay highlight regarding AI development?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Only small local businesses will benefit from AI.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Large corporations and wealthy nations may monopolize AI benefits, deepening global and social divides.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "AI will automatically prioritize fairness without human oversight.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Developing countries have more advanced AI resources than developed nations.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which ethical issue related to AI is emphasized in the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "AI’s inability to process large amounts of data.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Bias in algorithms and lack of accountability in AI-driven decisions.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "AI’s tendency to eliminate creativity in humans.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "The failure of AI to influence any sensitive field.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What key strategies does the essay propose for societies to adapt to AI-driven changes?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Eliminating education systems and depending entirely on AI training.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Evolving education, promoting lifelong learning, creating safety nets, and fostering global cooperation.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Focusing solely on technological innovation without social policies.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Delaying adoption of AI until all ethical concerns are resolved.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-010",
+      "title": "Urbanization and the Challenges of Sustainable Cities",
+      "contentFile": "essays/essay-010.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central issue does the essay identify regarding urbanization?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Urbanization only brings environmental benefits.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Urbanization offers economic and social opportunities but also poses environmental and infrastructural challenges.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Urbanization has no impact on social inequalities.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Urbanization is primarily a rural problem.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which environmental issue is highlighted as a consequence of rapid urban growth?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Decrease in energy consumption.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Pollution, resource depletion, and increased vulnerability to climate-related disasters.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Universal access to green spaces.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Improved biodiversity in cities.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What social challenge is associated with rapid urbanization?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Elimination of informal settlements.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Inequalities, overcrowding, and strain on public services.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Increased rural employment.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Reduction in crime and social fragmentation.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which solutions does the essay suggest for sustainable urban development?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Focusing solely on economic growth without environmental considerations.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Integrated planning, smart technologies, renewable energy, public policy, and citizen engagement.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Ignoring citizen participation in urban planning.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Isolating cities from global networks to reduce resource consumption.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "Why does the essay describe urban sustainability as a global concern?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Because decisions in one city can affect global supply chains, energy networks, and climate systems.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Because urbanization only happens in one country at a time.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Because global cooperation can replace all local urban planning efforts.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Because rural areas are unaffected by urban growth.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-011",
+      "title": "The Role of Education in Shaping Inclusive Societies",
+      "contentFile": "essays/essay-011.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What is the primary role of education according to the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Only to provide literacy and numeracy skills.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "To empower individuals, foster critical thinking, and enable participation in society.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "To prepare students solely for economic competition.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "To limit access to disadvantaged groups.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "What barrier does the essay highlight that affects equitable access to education?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Overabundance of trained teachers.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Socio-economic inequality, gender, marginalization, and remote geography.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Uniform quality of learning materials.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Excessive use of technology in schools.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "How does education contribute to inclusive societies?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "By fostering empathy, tolerance, civic engagement, and social cohesion.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "By promoting economic competition among students only.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "By excluding diverse cultural perspectives from curricula.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "By focusing solely on standardized testing.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What potential limitation of technology in education is highlighted in the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Technology can worsen inequality if access, infrastructure, and digital literacy are insufficient.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "Technology eliminates the need for teachers entirely.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "Technology always ensures quality education automatically.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Technology makes classrooms obsolete without any negative consequences.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "According to the essay, what is essential for making education transformative and inclusive?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Focusing solely on academic results without considering social context.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Ensuring access, quality, equity, and curricula that address diverse learners’ needs.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Limiting civic and life-skill education in schools.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Removing collaboration between governments and civil society.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-012",
+      "title": "Social Media and the Paradox of Connectivity",
+      "contentFile": "essays/essay-012.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central paradox about social media does the essay highlight?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Social media connects people globally but can also foster isolation and social polarization.",
+              "isCorrect": true
+            },
+            {
+              "id": "a2",
+              "text": "Social media is primarily a source of entertainment without any societal impact.",
+              "isCorrect": false
+            },
+            {
+              "id": "a3",
+              "text": "Social media only spreads misinformation and has no positive effects.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Social media ensures accurate information is always prioritized over engagement.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How does social media democratize information, according to the essay?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By allowing only official sources to share information.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "By enabling anyone with internet access to create content and engage in discourse.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By limiting participation to educational institutions.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By promoting offline community meetings over online discussion.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Which social and psychological challenge of social media is discussed in the essay?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Reduced self-esteem, anxiety, and loneliness despite numerous online connections.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "Increased physical health due to online exercise tutorials.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "Universal improvement in mental well-being.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Elimination of ideological divides automatically.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What role do platforms, governments, and users play in mitigating social media risks?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Platforms refine algorithms and fact-check; governments and civil society educate; users self-regulate.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "Users alone are responsible for all outcomes without platform or policy involvement.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "Governments should ban all social media to prevent risks.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Platforms need not change anything since users can discern facts independently.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What broader lesson about technology does the essay emphasize?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Technologies are neutral; their impact depends on human behavior, societal norms, and governance.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Technologies automatically ensure positive societal outcomes.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Technologies should be avoided entirely to prevent social risks.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Technologies eliminate the need for civic education.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
