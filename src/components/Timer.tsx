@@ -52,7 +52,7 @@ const Timer: React.FC<TimerProps> = ({ initialMinutes, onTimeUp, isActive }) => 
   }, [timeLeft]);
 
   return (
-    <div className={`flex items-center gap-3 px-6 py-3 rounded-xl font-mono text-xl shadow-lg border ${timerClass}`}>
+    <div className={`flex items-center gap-2 sm:gap-3 px-4 sm:px-6 py-2 sm:py-3 rounded-lg sm:rounded-xl font-mono text-lg sm:text-xl shadow-lg border ${timerClass}`}>
       {icon}
       <span className="font-serif tracking-wider">{formatTime(timeLeft)}</span>
     </div>
