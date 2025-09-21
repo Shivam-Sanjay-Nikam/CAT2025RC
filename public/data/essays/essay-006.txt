@@ -1,0 +1,25 @@
+In the 1960s, quantum physics was seen as one of the most successful theories ever, explaining atoms, bonds, lasers, and superconductors. Yet, its very foundation — the measurement process — was on shaky ground. Surprisingly, it was philosopher Hilary Putnam, not a physicist, who exposed this weakness.
+
+The issue is the measurement problem. Quantum mechanics describes systems with a mathematical tool called the wave function, which represents superpositions of all possible states. For instance, an electron’s spin is represented as both “up” and “down” until measured, when it yields only one outcome. How does the shift from superposition to a definite result occur?
+
+Von Neumann’s answer was that any measuring device also becomes entangled in a superposition, and so does the observer’s brain. Extending this indefinitely, he concluded that only consciousness can collapse the wave function. But this implied quantum theory could not describe the entire universe, since no external consciousness exists outside it.
+
+Putnam argued that this undermined the universality of quantum mechanics. He found support from philosopher-physicist Abner Shimony, while Nobel laureate Eugene Wigner and Henry Margenau defended von Neumann. Their debate cleared the way for alternatives such as Hugh Everett’s Many-Worlds interpretation, which denies collapse entirely, suggesting all outcomes occur in parallel realities.
+
+Yet, an overlooked text contained a different solution. In 1939, Fritz London and Edmond Bauer published The Theory of Observation in Quantum Mechanics, often assumed to be a mere summary of von Neumann. In fact, it drew on phenomenology, the philosophy of Edmund Husserl.
+
+Phenomenology investigates the correlation between consciousness and the world, emphasizing that subject and object exist in a mutually dependent context rather than in isolation. Its method, the epoché, “brackets” the assumption of an independent, objective world to reveal how consciousness constitutes meaning and knowledge.
+
+London, deeply influenced by phenomenology, applied this stance to quantum measurement. Rather than consciousness causing collapse, they argued that the observer’s reflective act constitutes objectivity. Consciousness is included in the chain of correlations, not outside it. The outcome of measurement arises not through mysterious physical interaction, but through the observer’s ability to reflect and form a definite belief about the system.
+
+They called this process “making objective”: by introspection, the observer separates from the superposition and attributes a definite state to the system. Thus, measurement is not about collapse but about the creation of a shared framework of objectivity.
+
+This raised the worry that scientific objectivity itself might collapse into subjectivity. London and Bauer’s solution was to allow neglect of the observer’s reflective “regard” when dealing with physical apparatus. Later developments in quantum decoherence supported this: while superpositions persist, interactions with large systems effectively wash out interference, making the apparatus behave classically. Thus, a community of scientific observers can agree on outcomes without invoking solipsism.
+
+Seen this way, quantum mechanics is not just about nature but about the relation between observer and observed — a theory of knowledge as well as physics. Husserl had warned that the mathematization of nature divorced science from consciousness; London and Bauer’s phenomenological reading reunites them.
+
+Although overlooked in Putnam and Wigner’s debate, this perspective influenced later phenomenologists. Maurice Merleau-Ponty argued that the observer should be included within the wave function, not placed outside it. Michel Bitbol and others developed “eco-phenomenology,” allied with QBism, which interprets the wave function as encoding an agent’s expectations about future experiences.
+
+Recent work, such as Phenomenological Approaches to Physics (2020) and Phenomenology and QBism (2024), shows growing recognition of this approach. By reframing quantum mechanics as an embodiment of our correlative participation in the world, phenomenology dissolves the measurement problem.
+
+Whether or not one accepts this stance, it highlights the overlooked role of philosophy in physics. Quantum mechanics, viewed phenomenologically, is not only a theory of particles and systems, but also of knowledge itself — uniting consciousness and the world in a single, correlative framework.

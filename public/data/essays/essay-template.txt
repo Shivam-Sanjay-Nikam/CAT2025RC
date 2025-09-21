@@ -1,0 +1,14 @@
+This is your essay content. You can write it in any format you want!
+
+You can use:
+- Multiple paragraphs
+- Proper indentation
+- Any quotes without escaping: "Hello world"
+- Special characters: @#$%^&*()
+- Line breaks wherever you want
+
+No need to worry about JSON formatting here!
+
+Just write your essay naturally and save it as a .txt file.
+
+The application will automatically load this content and display it properly in the UI.

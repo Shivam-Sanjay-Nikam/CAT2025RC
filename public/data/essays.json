@@ -1,0 +1,1852 @@
+{
+  "essays": [
+    {
+      "id": "essay-001",
+      "title": "Divine Dividends: How Chinese Religious Traditions Shape Corporate Generosity",
+      "contentFile": "essays/essay-001.txt",
+      "wordCount": 150,
+      "difficulty": "Medium",
+      "timeLimit": 12,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central argument does the essay make about Chinese corporate behaviour?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Corporate decisions are shaped only by regulations and profit motives.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Religious and cultural traditions influence financial practices such as dividend payments.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Chinese firms rarely pay dividends regardless of circumstances.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Only Western values shape modern capitalism.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which religious tradition had the stronger influence on dividend generosity according to the study?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Taoism, because it values balance.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Buddhism, because it emphasizes giving and karma.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Confucianism, because it values hierarchy.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Christianity, because of the Protestant ethic.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why were state-owned enterprises less influenced by local religious values?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They are primarily guided by international investors.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Their dividend policies are tied to government goals, limiting cultural influence.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They lack exposure to nearby temples.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They are forbidden from paying dividends.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did religion serve as an informal governance mechanism in Chinese firms?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "By replacing all formal legal frameworks.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "By discouraging exploitation and promoting fairness, even where legal enforcement was weak.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "By mandating dividend payments through temple rules.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "By reducing the role of shareholders altogether.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is meant by the essay’s statement that ‘culture is the software and policy is the hardware’?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Policies determine dividend size, while culture controls profitability.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Both cultural norms and formal regulations must align for smooth corporate governance.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Culture completely overrides policy in shaping firms.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Policies are temporary, while culture is irrelevant.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "Which of the following best captures the broader implication of the essay?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Capitalism everywhere functions independently of cultural and ethical traditions.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Religious and cultural traditions can make capitalism more ethical and sustainable.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Only Asian capitalism is influenced by religion.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Dividend payments are irrelevant to corporate ethics.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-002",
+      "title": "Joseph Wright of Derby: Painting the Age of Enlightenment",
+      "contentFile": "essays/essay-002.txt",
+      "wordCount": 160,
+      "difficulty": "Hard",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central theme connects Joseph Wright’s famous works such as the Orrery and the Air Pump?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "The dominance of religious symbolism in art.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "The integration of science and Enlightenment ideas into painting.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "The glorification of political leaders.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "The focus on natural landscapes only.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which artistic technique did Wright famously use to dramatize scientific demonstrations?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Fresco painting.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Chiaroscuro, inspired by Caravaggio’s use of candlelight.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Cubism with geometric abstraction.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Watercolour washes for light effects.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why was Joseph Wright never fully accepted into the Royal Academy?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "His subject matter did not fit into traditional categories like history or religion.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "He only painted landscapes and portraits.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "He worked exclusively in Rome.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "He lacked technical painting skills.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did Wright’s works reflect the philosophical idea of the Sublime?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "By showing the insignificance of mankind against vast cosmic forces.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "By celebrating the authority of the monarchy.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "By focusing only on decorative beauty.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "By rejecting all scientific themes.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What role did Derby and the Lunar Society play in Wright’s career?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "They connected him with leading scientists and industrialists who inspired his art.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "They provided him with commissions for royal portraits.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "They trained him in fresco painting.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "They discouraged him from painting science.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the significance of Wright’s Orrery painting today?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "It symbolizes how art captured Enlightenment science and is now a centrepiece of Derby Museum.",
+              "isCorrect": true
+            },
+            {
+              "id": "f2",
+              "text": "It demonstrates the decline of scientific thought in Britain.",
+              "isCorrect": false
+            },
+            {
+              "id": "f3",
+              "text": "It is considered Wright’s only landscape work.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "It was rejected and destroyed by the Royal Academy.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-003",
+      "title": "Hidden Fire: El Chichón and the Global Risks of Volcanoes",
+      "contentFile": "essays/essay-003.txt",
+      "wordCount": 1520,
+      "difficulty": "Hard",
+      "timeLimit": 20,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "Why was the eruption of El Chichón in 1982 particularly surprising?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "It erupted sideways, similar to Mount St Helens.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "It had been quiet for centuries, with little to no prior monitoring or warning signs.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "It was the largest eruption ever recorded.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "It occurred in a densely monitored and well-prepared region.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "What global consequence followed the El Chichón eruption?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "It permanently increased Earth’s temperature.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "It caused volcanic particles to settle only within Mexico.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "It triggered atmospheric cooling and contributed to a devastating drought in East Africa.",
+              "isCorrect": true
+            },
+            {
+              "id": "b4",
+              "text": "It initiated a new ice age across both hemispheres.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why are many dangerous volcanoes overlooked in global monitoring efforts?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They erupt too frequently to be studied effectively.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Scientific and media attention tends to focus on famous volcanoes with frequent eruptions.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They are only located in uninhabited regions.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They are mostly underwater and impossible to measure.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What makes forecasting volcanic eruptions so difficult, even with instruments?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Most warning signs always lead to eruptions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Many unrest signals never culminate in eruptions, and volcanoes can erupt with very short warning times.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Technology cannot detect earthquakes or gas emissions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Volcanoes in populated areas behave completely predictably.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What broader lesson does El Chichón teach about volcanic risk?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Only active, frequently erupting volcanoes pose real danger.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Even quiet, seemingly dormant volcanoes can cause catastrophic global impacts.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Volcanoes are no longer capable of influencing global climate.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Eruptions only matter for local communities, not the wider world.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the purpose of the newly founded Global Volcano Risk Alliance?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "To promote tourism around famous volcanoes.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "To advocate for monitoring, preparedness, and international cooperation on overlooked volcanic threats.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "To fund movies about volcanic disasters.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "To permanently prevent volcanic eruptions through technology.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-004",
+      "title": "Katie Brandt: From Personal Tragedy to Caregiver Advocacy",
+      "contentFile": "essays/essay-004.txt",
+      "wordCount": 150,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What early signs of Mike’s illness did Katie notice before his diagnosis?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "He had severe memory loss.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "He became indifferent, compulsive, and showed personality changes.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "He began experiencing hallucinations.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "He lost the ability to walk.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why was Mike’s illness initially misdiagnosed?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Frontotemporal dementia symptoms mimic depression and stress.",
+              "isCorrect": true
+            },
+            {
+              "id": "b2",
+              "text": "The disease progresses too quickly to detect.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "Katie did not seek medical help until very late.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "MRI scans always confirm frontotemporal dementia.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "How is frontotemporal dementia different from Alzheimer’s in its early stages?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "FTD primarily affects memory, while Alzheimer’s changes personality first.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "FTD preserves memory initially but alters personality and judgment.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "FTD and Alzheimer’s show identical symptoms.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "FTD only affects the elderly, while Alzheimer’s affects the young.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What turning point pushed Katie into advocacy work?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Mike’s sudden recovery inspired her to help others.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Her grief after Mike’s death led her to volunteer and later become an advocate.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "She received government funding for a new project.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Her father encouraged her to pursue caregiving.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What policy change in 2020 was significant for caregivers like Katie?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Expansion of Medicare to all caregivers regardless of income.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "The Older Americans Act allowed dementia patients under 60 to access support programs.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "The Affordable Care Act created free dementia clinics nationwide.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "All caregivers were given direct financial stipends by the government.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What broader lesson does Katie’s story highlight about caregiving?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Caregiving is primarily a medical challenge.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Caregiving is as much about systemic support and recognition as medical treatment.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Caregiving always leads to financial stability for families.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Caregiving problems are already fully addressed by current systems.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-005",
+      "title": "The Big Bang Theory: Origins, Evidence, and Challenges",
+      "contentFile": "essays/essay-005.txt",
+      "wordCount": 150,
+      "difficulty": "Easy",
+      "timeLimit": 10,
+      "createdAt": "2025-09-19",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What observation by Edwin Hubble and Milton Humason supported the idea of an expanding universe?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Stars in the Milky Way were moving closer together.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Galaxies were moving away at speeds proportional to their distances.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "The Sun’s orbit around the galaxy was slowing down.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Dark matter halos were discovered.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why was anisotropy (tiny irregularities in matter distribution) essential in the early universe?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "It allowed gravity to create stars and galaxies.",
+              "isCorrect": true
+            },
+            {
+              "id": "b2",
+              "text": "It stopped the universe from collapsing.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "It explained the presence of dark energy.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "It prevented cosmic inflation.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What discovery by Penzias and Wilson in 1964 provided strong evidence for the Big Bang?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "The first spiral galaxy rotation curves.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "The cosmic microwave background radiation.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Dark matter halos around galaxies.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "The accelerating expansion of the universe.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What is the role of dark matter in galaxy formation?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It slows down cosmic expansion.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "It provides the gravitational framework for galaxies to form and rotate correctly.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "It emits radiation detected as the CMB.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It prevents anisotropies from forming.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What unexpected discovery in the late 1990s led to the revival of Einstein’s cosmological constant?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "The universe’s expansion was accelerating, not slowing down.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "The universe was shrinking in size.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Dark matter could explain all missing mass.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "The CMB temperature was higher than predicted.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What current challenge is referred to as the 'Hubble tension'?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Disagreement between early and late universe measurements of the Hubble constant.",
+              "isCorrect": true
+            },
+            {
+              "id": "f2",
+              "text": "The inability to detect dark matter directly.",
+              "isCorrect": false
+            },
+            {
+              "id": "f3",
+              "text": "The discovery of gravitational waves contradicting inflation.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Supernovae no longer acting as reliable standard candles.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-006",
+      "title": "Quantum Mechanics, Consciousness, and the Forgotten Phenomenology",
+      "contentFile": "essays/essay-006.txt",
+      "wordCount": 600,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-20",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central issue does the 'measurement problem' in quantum mechanics address?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Why quantum mechanics cannot explain atomic structure.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "How a quantum superposition becomes a definite outcome upon measurement.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Why electrons have spin in two forms.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "How lasers and superconductors function.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "According to von Neumann, what collapses a quantum superposition into a definite state?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Random physical noise in the apparatus.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "The observer’s consciousness.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "The laws of classical mechanics.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "External cosmic forces beyond physics.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What concern did Hilary Putnam raise about von Neumann’s argument?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "It made quantum mechanics too mathematical to apply in practice.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "If consciousness is needed, quantum theory cannot be applied to the entire Universe.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "It ignored the role of detectors in experiments.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It conflicted with relativity theory.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did London and Bauer’s 1939 pamphlet reinterpret the measurement process?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "They argued that measurement outcomes are determined by hidden variables.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "They adopted a phenomenological view, where consciousness and the world are correlated.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "They denied that superpositions exist at all.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "They claimed the act of measurement has no philosophical implications.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What role does the ‘faculty of introspection’ play in London and Bauer’s account?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "It mathematically calculates wave functions.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "It allows the observer to reflect, separate from the superposition, and ‘make objective’ a definite outcome.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "It ensures the measurement apparatus behaves classically.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "It removes consciousness from the measurement process.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "Which broader implication does the phenomenological approach to quantum mechanics suggest?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Quantum mechanics should be treated only as a mathematical tool, not a theory of knowledge.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Quantum mechanics embodies our correlative participation with the world, making it a theory of knowledge as well.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Philosophy has no role in understanding physics.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Measurement problems are solved only by technology, not philosophy.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-007",
+      "title": "The Double-Edged Sword of Technology in Human Progress",
+      "contentFile": "essays/essay-007.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central paradox about technology does the essay highlight?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Technology is inherently harmful to humanity.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Technology can both empower and endanger human progress.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Technology only benefits economic growth but not society.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Technology solves more problems than it creates.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How has technology acted as a social leveller according to the essay?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By reducing all economic inequalities.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "By making information accessible to marginalized groups and remote learners.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By guaranteeing universal employment opportunities.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By replacing traditional institutions with digital ones.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What is identified as the most pressing concern related to technological inequality?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "The cost of developing artificial intelligence.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "The widening digital divide in access to devices and connectivity.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "The dominance of multinational corporations in tech.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "The complexity of new technologies like quantum computing.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which of the following is cited as a psychological consequence of overdependence on digital technology?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "An increase in physical strength and memory power.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Shortened attention spans and rising anxiety due to social media.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Greater cultural unity across the globe.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "The elimination of misinformation online.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What solution does the essay emphasize to balance opportunities and threats of technology?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Complete rejection of artificial intelligence.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Building digital infrastructure, regulatory frameworks, and promoting digital literacy.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Focusing only on corporate profits to ensure efficiency.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Restricting internet usage to urban populations only.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-008",
+      "title": "Climate Change and the Ethics of Development",
+      "contentFile": "essays/essay-008.txt",
+      "wordCount": 605,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What ethical dilemma does the essay identify at the heart of climate change?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Whether nations should ignore climate change to pursue rapid growth.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "How to balance economic development with environmental responsibility.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Whether developing countries should industrialize at all.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "How to replace GDP as a measure of growth.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why does the essay argue that it is inequitable to expect developing nations to restrict growth?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Because they contribute more emissions than developed nations.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Because developed nations are historically responsible for most greenhouse gas emissions.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Because developing nations lack natural resources.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Because their populations are much smaller than industrialized countries.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What broader redefinition of progress does the essay advocate?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Viewing GDP growth as the sole measure of success.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Balancing economic, social, and environmental dimensions of development.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Focusing only on industrialization and urbanization.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Prioritizing consumerism as a driver of growth.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What role does global cooperation play in addressing climate change according to the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It ensures developing nations can access finance, technology, and support for green transitions.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "It allows developed nations to avoid responsibility for past emissions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "It eliminates the need for domestic policy reforms.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It focuses only on scientific debates about climate change.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "According to the essay, what is the ultimate ethical test posed by climate change?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Whether humanity can safeguard the planet for future generations through cooperation and sustainability.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Whether nations can achieve the highest possible GDP growth.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Whether technological innovation alone can solve the crisis.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Whether citizens can avoid participating in global agreements.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-009",
+      "title": "The Future of Work in the Age of Artificial Intelligence",
+      "contentFile": "essays/essay-009.txt",
+      "wordCount": 615,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What is the central concern raised about AI and employment in the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "AI will make human creativity obsolete.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "AI may eliminate jobs faster than it creates them, causing disruptive transitions.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "AI will only replace manual labor without affecting skilled professions.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "AI will entirely replace governments in decision-making.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How does the essay suggest AI is most likely to impact the future of work?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By rendering humans completely unnecessary in most industries.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "By fostering collaboration where AI handles repetitive tasks and humans focus on creativity and judgment.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By ensuring equal distribution of benefits across all nations automatically.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By replacing emotional intelligence with machine empathy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What inequality risk does the essay highlight regarding AI development?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Only small local businesses will benefit from AI.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Large corporations and wealthy nations may monopolize AI benefits, deepening global and social divides.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "AI will automatically prioritize fairness without human oversight.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Developing countries have more advanced AI resources than developed nations.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which ethical issue related to AI is emphasized in the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "AI’s inability to process large amounts of data.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Bias in algorithms and lack of accountability in AI-driven decisions.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "AI’s tendency to eliminate creativity in humans.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "The failure of AI to influence any sensitive field.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What key strategies does the essay propose for societies to adapt to AI-driven changes?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Eliminating education systems and depending entirely on AI training.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Evolving education, promoting lifelong learning, creating safety nets, and fostering global cooperation.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Focusing solely on technological innovation without social policies.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Delaying adoption of AI until all ethical concerns are resolved.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-010",
+      "title": "Urbanization and the Challenges of Sustainable Cities",
+      "contentFile": "essays/essay-010.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central issue does the essay identify regarding urbanization?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Urbanization only brings environmental benefits.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Urbanization offers economic and social opportunities but also poses environmental and infrastructural challenges.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Urbanization has no impact on social inequalities.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Urbanization is primarily a rural problem.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which environmental issue is highlighted as a consequence of rapid urban growth?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Decrease in energy consumption.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Pollution, resource depletion, and increased vulnerability to climate-related disasters.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Universal access to green spaces.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Improved biodiversity in cities.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What social challenge is associated with rapid urbanization?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Elimination of informal settlements.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Inequalities, overcrowding, and strain on public services.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Increased rural employment.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Reduction in crime and social fragmentation.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which solutions does the essay suggest for sustainable urban development?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Focusing solely on economic growth without environmental considerations.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Integrated planning, smart technologies, renewable energy, public policy, and citizen engagement.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Ignoring citizen participation in urban planning.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Isolating cities from global networks to reduce resource consumption.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "Why does the essay describe urban sustainability as a global concern?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Because decisions in one city can affect global supply chains, energy networks, and climate systems.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Because urbanization only happens in one country at a time.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Because global cooperation can replace all local urban planning efforts.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Because rural areas are unaffected by urban growth.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-011",
+      "title": "The Role of Education in Shaping Inclusive Societies",
+      "contentFile": "essays/essay-011.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What is the primary role of education according to the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Only to provide literacy and numeracy skills.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "To empower individuals, foster critical thinking, and enable participation in society.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "To prepare students solely for economic competition.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "To limit access to disadvantaged groups.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "What barrier does the essay highlight that affects equitable access to education?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Overabundance of trained teachers.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Socio-economic inequality, gender, marginalization, and remote geography.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Uniform quality of learning materials.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Excessive use of technology in schools.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "How does education contribute to inclusive societies?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "By fostering empathy, tolerance, civic engagement, and social cohesion.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "By promoting economic competition among students only.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "By excluding diverse cultural perspectives from curricula.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "By focusing solely on standardized testing.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What potential limitation of technology in education is highlighted in the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Technology can worsen inequality if access, infrastructure, and digital literacy are insufficient.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "Technology eliminates the need for teachers entirely.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "Technology always ensures quality education automatically.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Technology makes classrooms obsolete without any negative consequences.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "According to the essay, what is essential for making education transformative and inclusive?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Focusing solely on academic results without considering social context.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Ensuring access, quality, equity, and curricula that address diverse learners’ needs.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Limiting civic and life-skill education in schools.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Removing collaboration between governments and civil society.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-012",
+      "title": "Social Media and the Paradox of Connectivity",
+      "contentFile": "essays/essay-012.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central paradox about social media does the essay highlight?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Social media connects people globally but can also foster isolation and social polarization.",
+              "isCorrect": true
+            },
+            {
+              "id": "a2",
+              "text": "Social media is primarily a source of entertainment without any societal impact.",
+              "isCorrect": false
+            },
+            {
+              "id": "a3",
+              "text": "Social media only spreads misinformation and has no positive effects.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Social media ensures accurate information is always prioritized over engagement.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How does social media democratize information, according to the essay?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By allowing only official sources to share information.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "By enabling anyone with internet access to create content and engage in discourse.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By limiting participation to educational institutions.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By promoting offline community meetings over online discussion.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Which social and psychological challenge of social media is discussed in the essay?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Reduced self-esteem, anxiety, and loneliness despite numerous online connections.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "Increased physical health due to online exercise tutorials.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "Universal improvement in mental well-being.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Elimination of ideological divides automatically.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What role do platforms, governments, and users play in mitigating social media risks?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Platforms refine algorithms and fact-check; governments and civil society educate; users self-regulate.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "Users alone are responsible for all outcomes without platform or policy involvement.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "Governments should ban all social media to prevent risks.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Platforms need not change anything since users can discern facts independently.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What broader lesson about technology does the essay emphasize?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Technologies are neutral; their impact depends on human behavior, societal norms, and governance.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Technologies automatically ensure positive societal outcomes.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Technologies should be avoided entirely to prevent social risks.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Technologies eliminate the need for civic education.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
