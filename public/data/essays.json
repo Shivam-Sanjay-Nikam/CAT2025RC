@@ -1847,6 +1847,288 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-013",
+      "title": "Climate Change and the Ethics of Responsibility",
+      "contentFile": "essays/essay-013.txt",
+      "wordCount": 608,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-21",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central ethical dilemma does the essay highlight regarding climate change?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Whether technological innovation alone can solve climate change.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "That nations and communities contributing least to emissions are often most vulnerable to impacts.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Whether climate change is caused by natural or human activity.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "That wealthy nations should avoid participating in negotiations.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "What principle in international climate agreements addresses fairness in responsibilities?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Universal Equal Responsibility (UER).",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Common but Differentiated Responsibilities (CBDR).",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Sustainable Development Goals (SDGs).",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "International Climate Equity Pact (ICEP).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What role do corporations play in climate responsibility according to the essay?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They play a minimal role compared to governments.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "They bear disproportionate responsibility due to their influence on global supply chains and consumption patterns.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They are entirely exempt from accountability mechanisms.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They contribute only through renewable energy projects.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What does the essay identify as a key intergenerational issue with climate change?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Future generations will benefit economically from current emissions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Future generations, who did not cause the problem, will bear the greatest consequences.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Future generations will not be affected by climate change.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Intergenerational issues are irrelevant to climate discussions.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "According to the essay, what broader shift in perspective is necessary to address climate change effectively?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Viewing climate change only as a technological challenge.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Recognizing climate change as a profound moral and ethical challenge requiring responsibility and justice.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Focusing exclusively on short-term economic growth.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Reducing climate discussions to local issues only.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-014",
+      "title": "Artificial Intelligence and the Future of Human Work",
+      "contentFile": "essays/essay-014.txt",
+      "wordCount": 612,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-22",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What key difference distinguishes AI from previous technological revolutions?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "AI is a faster tool for factory production.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "AI can learn, adapt, and perform cognitive tasks beyond simple automation.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "AI only affects manual labor but not cognitive work.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "AI is limited to assisting with clerical tasks.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "According to the essay, which types of jobs are less likely to be fully automated?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Routine manufacturing roles.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Creative and empathetic professions such as teaching, design, and counseling.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Data science and algorithm auditing.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Clerical jobs and customer service roles.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What ethical concern does the essay highlight regarding AI and inequality?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "AI will eliminate all forms of human labor.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "AI could deepen divides between skilled and unskilled workers, and between nations.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "AI will primarily disadvantage wealthy corporations.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "AI will prevent developing nations from accessing digital tools.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What policy response does the essay suggest to address disruptions caused by AI?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Expanding vocational training and social safety nets such as reskilling grants or basic income.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "Restricting AI research altogether.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "Allowing corporations to self-regulate without oversight.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Focusing only on manual labor protections.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What philosophical question does the essay raise about AI?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Whether machines can outperform humans in mathematics.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "If reduced human work may diminish meaning in people’s lives and challenge human identity.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Whether robots can participate in democratic decision-making.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "If AI should only be used in education and healthcare.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
