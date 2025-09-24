@@ -2129,6 +2129,147 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-015",
+      "title": "The Fall of the Roman Empire and Lessons for Modern States",
+      "contentFile": "essays/essay-015.txt",
+      "wordCount": 603,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-24",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What was one major political factor that contributed to the decline of the Roman Empire?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "The rise of Christianity as the state religion.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Frequent leadership changes and political instability.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "The decline of Roman architecture.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "The spread of regional languages.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How did economic challenges weaken the Roman Empire?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By increasing cultural diversity within the empire.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Through heavy taxation, inequality, and currency devaluation.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "By focusing on international trade expansion.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Through the abolition of slave labor.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Why did Rome’s military become less effective over time?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "It increasingly relied on mercenaries with weaker loyalty.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "It abandoned the use of roads for military campaigns.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "It lacked exposure to foreign invasions.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It became over-dependent on naval power.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What does the essay suggest about the role of Christianity in Rome’s decline?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It completely destroyed Roman unity.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "It shifted values away from civic duty and military service.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "It ended economic inequality in the empire.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It provided no spiritual or cultural benefits.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What broader lesson does the fall of Rome provide for modern states?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Military strength alone guarantees long-term stability.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Great powers can decline if they ignore stability, fairness, and adaptability.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Cultural diversity always weakens empires.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Economic inequality has no impact on governance.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
