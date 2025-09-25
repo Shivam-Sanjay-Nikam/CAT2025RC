@@ -2270,6 +2270,314 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-016",
+      "title": "Globalization and the Nation-State: Cooperation or Conflict?",
+      "contentFile": "essays/essay-016.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-22",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What key economic benefit of globalization does the essay highlight?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "It eliminates inequality within nations.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "It provides access to international markets and cheaper goods.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "It prevents foreign investment in developing economies.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "It ensures rural areas grow faster than urban centers.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How does globalization challenge the political authority of nation-states?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "By requiring states to align policies with international institutions and agreements.",
+              "isCorrect": true
+            },
+            {
+              "id": "b2",
+              "text": "By dissolving national governments entirely.",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "By abolishing local elections in favor of global voting.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "By removing all trade barriers permanently.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What cultural tension does the essay identify as a result of globalization?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Globalization strengthens only rural traditions while weakening urban ones.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "It fosters cosmopolitan exchanges but can also trigger fears of cultural homogenization.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "It eliminates all forms of nationalism.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It prevents people from accessing foreign art or ideas.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "According to the essay, why are modern states more interdependent in matters of security?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Because threats like terrorism, pandemics, and cybercrime require collective action.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "Because globalization prevents states from building their own armies.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "Because globalization eliminates all internal conflicts within states.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Because international trade removes the need for diplomacy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is the central conclusion of the essay?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Nation-states will inevitably disappear in the face of globalization.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "The challenge is to balance globalization with strong nation-states that adapt and ensure inclusive growth.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Isolation from global systems guarantees long-term prosperity.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Globalization always weakens sovereignty without exception.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-017",
+      "title": "The Story of Rocks: Foundations of Earth and Civilization",
+      "contentFile": "essays/essay-017.txt",
+      "wordCount": 615,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-22",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What are the three main categories of rocks described in the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Igneous, Metamorphic, Fossilized",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Igneous, Sedimentary, Metamorphic",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Basalt, Granite, Marble",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Sedimentary, Fossil, Precious",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why is the Stone Age considered significant in human history?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "It was the period when humans first discovered fire.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "It marked the first widespread use of stone tools and weapons.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "It was when humans began farming and domesticating animals.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "It was the age of early written languages.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Which rock was crucial for powering the Industrial Revolution?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Granite",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Coal",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Marble",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Basalt",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How do fossils in sedimentary rocks contribute to science?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "They provide evidence for tectonic plate movements.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "They narrate the history of life and evolution on Earth.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "They are the main source of precious gemstones.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "They reveal the chemical composition of igneous rocks.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What concern does the essay raise about human use of rocks?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Mining has become technologically outdated.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Overuse and unregulated mining lead to environmental harm.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Civilizations are too dependent on precious stones for culture.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "The supply of rocks is rapidly depleting worldwide.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What broader lesson about rocks does the essay emphasize?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "They are only useful as economic resources.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "They symbolize permanence and transformation in Earth’s story.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "They are primarily significant for religious structures.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "They should be studied only for fossil fuels.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
