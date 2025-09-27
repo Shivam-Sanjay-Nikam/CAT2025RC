@@ -2578,6 +2578,173 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-018",
+      "title": "Mobile Phones: Boon, Bane, and Balance",
+      "contentFile": "essays/essay-018.txt",
+      "wordCount": 635,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-09-27",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What was the original purpose of the first mobile phones?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Accessing the internet",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Playing games",
+              "isCorrect": false
+            },
+            {
+              "id": "a3",
+              "text": "Voice communication without wires",
+              "isCorrect": true
+            },
+            {
+              "id": "a4",
+              "text": "Sending instant messages",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which example shows how mobile phones support rural livelihoods?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Farmers using phones to check weather and crop prices",
+              "isCorrect": true
+            },
+            {
+              "id": "b2",
+              "text": "Students using online lectures",
+              "isCorrect": false
+            },
+            {
+              "id": "b3",
+              "text": "Businesses using mobile payments",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Artists showcasing their work globally",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What paradox about mobile phones does the essay highlight?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They are expensive yet essential.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "They connect us globally but may isolate us locally.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They improve education but reduce employment.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They encourage innovation but prevent regulation.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which environmental issue is linked to mobile phones?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Greenhouse gas emissions from vehicles",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Soil pollution from discarded electronic waste",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Water scarcity from overuse in agriculture",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Deforestation for urban expansion",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What solution does the essay suggest for managing the psychological effects of mobile phones?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Banning social media entirely",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Cultivating digital literacy and responsible use",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Limiting mobile manufacturing",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Switching to landline communication",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the overall conclusion of the essay?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Mobile phones should be rejected due to their harms.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Mobile phones are transformative but must be used with balance.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Mobile phones are only useful for entertainment.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Mobile phones will inevitably dominate human life.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
