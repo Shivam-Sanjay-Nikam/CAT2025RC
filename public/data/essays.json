@@ -2745,6 +2745,340 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-019",
+      "title": "Love: The Universal Language of Humanity",
+      "contentFile": "essays/essay-019.txt",
+      "wordCount": 645,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-10-01",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "According to the essay, why does evolutionary biology consider love important?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Because it provides entertainment through art and literature.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Because it helps survival by ensuring care for children and cooperation between partners.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Because it encourages material prosperity.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Because it eliminates social conflict.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "What distinguishes friendship from familial or romantic love in the essay?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "It is grounded in necessity and obligation.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "It is freely chosen, based on trust and shared experience.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "It is always superior to other forms of love.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "It is considered less important by philosophers.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "How does the essay describe the role of compassionate love in society?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "As a weakness that prevents progress.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "As central to moral and religious traditions, inspiring justice and peace.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "As primarily useful for commercial industries.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "As relevant only in private relationships.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What challenge does modern society face regarding love, according to the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Love is becoming extinct due to technology.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "The commercialization of love can overshadow genuine emotion.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Friendship has replaced familial bonds.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Romantic love is no longer celebrated in art or literature.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "How has technology influenced expressions of love in recent times?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "By eliminating the need for personal relationships.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "By broadening opportunities for connection, despite risks of superficiality.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "By ensuring that all relationships are permanent.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "By completely replacing traditional expressions of love.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the essay’s central conclusion about love?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Love is fragile and should be avoided in serious life decisions.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Love is the universal thread of human existence, essential for unity and meaning.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Love only functions at the biological level for reproduction.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Love is less important than fear and hatred in shaping societies.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-020",
+      "title": "Friendship: The Silent Pillar of Human Life",
+      "contentFile": "essays/essay-020.txt",
+      "wordCount": 620,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-10-01",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "According to Aristotle, which form of friendship is the highest and most fulfilling?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Friendship of utility",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Friendship of pleasure",
+              "isCorrect": false
+            },
+            {
+              "id": "a3",
+              "text": "Friendship of virtue",
+              "isCorrect": true
+            },
+            {
+              "id": "a4",
+              "text": "Friendship of necessity",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which historical or mythological example highlights the guiding role of friendship?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Caesar and Brutus in Roman history",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Krishna and Arjuna in the Mahabharata",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Shakespeare and Marlowe in literature",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Rama and Ravana in the Ramayana",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What psychological role does friendship play according to the essay?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "It ensures professional success.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "It provides freedom of expression, reduces stress, and improves well-being.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "It guarantees lifelong loyalty.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It removes the need for family relationships.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How does the essay describe the impact of friendship at the societal level?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It weakens traditional institutions.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "It fosters harmony, cooperation, and teamwork across divisions.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "It primarily benefits religious communities.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It has little relevance in modern society.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What challenge to friendship is highlighted in the digital age?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Excessive loyalty among online friends.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Distance, busy schedules, and superficial online interactions.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "The replacement of family ties by friends.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "The decline of professional collaboration.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the central message of the essay?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Friendship is optional in life, unlike family.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Friendship is vital for personal growth, societal harmony, and human happiness.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Friendship is only valuable in childhood and youth.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Friendship is largely symbolic and has no practical role.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
