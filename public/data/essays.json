@@ -3580,6 +3580,147 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-024",
+      "title": "Trump’s Tariff Policy and Its Global Implications",
+      "contentFile": "essays/essay-024.txt",
+      "wordCount": 610,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-02",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What was the main justification behind Trump’s tariff policy?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "To reduce environmental pollution",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "To protect American industries and jobs from unfair trade practices",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "To increase global cooperation",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "To promote free trade agreements",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which sector of the U.S. economy was hit hardest by retaliatory tariffs?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Automobile industry",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Farmers (soybeans, pork)",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Technology startups",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Steel producers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What was one international consequence of Trump’s tariffs?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Strengthening of WTO rules",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "U.S.–China trade war",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Rise of European protectionism against India",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Global ban on U.S. exports",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "According to critics, what is the hidden cost of tariffs?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "They reduce pollution",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "They act as taxes on consumers",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "They eliminate the need for subsidies",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "They reduce domestic demand",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What key dilemma does the essay highlight?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Globalization versus nationalism",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Urbanization versus rural development",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Democracy versus authoritarianism",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Technology versus culture",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
