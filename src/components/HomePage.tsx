@@ -126,10 +126,12 @@ const HomePage: React.FC = () => {
           
           {/* Stats */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8 max-w-2xl mx-auto mb-8 sm:mb-12">
-            <div className="text-center">
-              <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-indigo-600 mb-1 sm:mb-2">Will Add upto 500+</div>
-              <div className="text-sm sm:text-base text-slate-600">Reading Passages</div>
+          <div className="text-center">
+            <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-indigo-600 mb-1 sm:mb-2">
+              {essays.length}+
             </div>
+            <div className="text-sm sm:text-base text-slate-600">Reading Passages</div>
+          </div>
             <div className="text-center">
               <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-indigo-600 mb-1 sm:mb-2">100+ current</div>
               <div className="text-sm sm:text-base text-slate-600">Happy Students</div>
