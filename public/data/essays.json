@@ -3246,6 +3246,173 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-022",
+      "title": "The Bridge at Dawn",
+      "contentFile": "essays/essay-022.txt",
+      "wordCount": 630,
+      "difficulty": "Easy",
+      "timeLimit": 14,
+      "createdAt": "2025-10-01",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central theme does the story highlight?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "The power of wealth in solving conflicts",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "The importance of empathy and reconciliation",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "The dangers of travel at night",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "The inevitability of misunderstandings",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Why had Arun and Ravi stopped speaking to each other?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Because of political differences in their village",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Because of a dispute over inherited land",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Because of a business rivalry",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Because they moved to different cities",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What unexpected action did the carpenter take?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "He built a fence between the two farms",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "He built a bridge instead of a barrier",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "He refused to work for Arun",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "He demolished Arun’s house",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How did Ravi react when he saw the bridge?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "He was furious and broke it down.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "He crossed it with open arms to embrace Arun.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "He ignored it completely.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "He demanded payment from the carpenter.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What symbolic role does the bridge play in the story?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "It represents hard labor and survival.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "It symbolizes reconciliation and the mending of relationships.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "It shows the futility of physical boundaries.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "It highlights the carpenter’s greed.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What message does the carpenter’s departure leave behind?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "That strangers cannot influence friendships.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "That small acts of wisdom can transform lives.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "That bridges are more useful than fences.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "That laborers should not interfere in disputes.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
