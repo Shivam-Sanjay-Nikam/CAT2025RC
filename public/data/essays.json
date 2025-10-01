@@ -3413,6 +3413,173 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-023",
+      "title": "Democracy and the Challenge of Populism",
+      "contentFile": "essays/essay-023.txt",
+      "wordCount": 625,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-02",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What is the central challenge posed by populism in a democracy?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "It eliminates free elections.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "It undermines institutions by reducing complex issues into emotional appeals.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "It always results in dictatorship.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "It improves governance by empowering bureaucrats.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How does the essay define populism?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "A movement that always represents economic reforms.",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "A style of politics that divides society into 'the pure people' and 'the corrupt elite'.",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "A system of rule based on hereditary leadership.",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "A method of governance focused on technology.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What historical example does the essay use to illustrate the dangers of populism?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "The Roman Republic’s decline under Julius Caesar.",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "The French Revolution’s industrial policies.",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "The rise of Buddhism in India.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "The unification of Germany under Bismarck.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which factor in the digital age strengthens populist movements?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "The decline of print newspapers.",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "The rise of social media as a tool for direct emotional appeals.",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "The increase in voter education campaigns.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "The decline of television debates.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What solution does the essay propose for addressing populism?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Strengthening democratic institutions and civic education.",
+              "isCorrect": true
+            },
+            {
+              "id": "e2",
+              "text": "Banning social media platforms.",
+              "isCorrect": false
+            },
+            {
+              "id": "e3",
+              "text": "Reducing voter participation.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Expanding hereditary political dynasties.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What is the essay’s final message about democracy?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Democracy is self-sustaining and needs no protection.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Democracy is fragile and must be nurtured through balance and vigilance.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Democracy is outdated and should be replaced.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Democracy works best when institutions are weak.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
