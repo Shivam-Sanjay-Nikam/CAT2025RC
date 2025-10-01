@@ -3079,6 +3079,173 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-021",
+      "title": "Perfumes: A Fragrance Through Time and Culture",
+      "contentFile": "essays/essay-021.txt",
+      "wordCount": 615,
+      "difficulty": "Medium",
+      "timeLimit": 14,
+      "createdAt": "2025-10-01",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "Where does the word 'perfume' originate from?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Greek word meaning 'aroma of flowers'",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Latin phrase 'per fumum', meaning 'through smoke'",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Arabic word 'attar' meaning 'oil'",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "French word 'parfumerie' meaning 'scent shop'",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "How were perfumes used in ancient Egypt?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Mainly as a currency in trade",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "For religious ceremonies, embalming, and personal adornment",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Exclusively as medicine",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "To mark political boundaries",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Which innovation in the Islamic Golden Age advanced perfumery?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "The discovery of alcohol distillation for extracting scents",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "The invention of synthetic chemicals",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "The development of spray bottles",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "The use of perfumes as ink in manuscripts",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What role did France play in the history of perfumes?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "It pioneered large-scale cultivation of flowers for perfume.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "It invented the first synthetic fragrance.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "It used perfumes exclusively for political treaties.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "It restricted perfumery to religious orders only.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "According to the essay, what challenge does the perfume industry face today?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Overdependence on only natural ingredients",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Balancing tradition with sustainability and environmental concerns",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Decline in global interest for perfumes",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Shortage of skilled perfumers in Europe",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-006",
+          "question": "What central idea about perfumes does the essay emphasize?",
+          "options": [
+            {
+              "id": "f1",
+              "text": "Perfumes are mere luxury items with no cultural role.",
+              "isCorrect": false
+            },
+            {
+              "id": "f2",
+              "text": "Perfumes embody art, memory, identity, and history across civilizations.",
+              "isCorrect": true
+            },
+            {
+              "id": "f3",
+              "text": "Perfumes have only been useful in religious rituals.",
+              "isCorrect": false
+            },
+            {
+              "id": "f4",
+              "text": "Perfumes are important only in Western societies.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
