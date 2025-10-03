@@ -3721,6 +3721,429 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-025",
+      "title": "The Power of Books in Shaping Human Civilization",
+      "contentFile": "essays/essay-025.txt",
+      "wordCount": 608,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-03",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What central role do books play in human civilization according to the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "They are mainly tools of entertainment.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "They preserve and transmit knowledge across generations.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "They replace oral traditions completely.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "They act only as religious scriptures.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which invention made books more accessible to ordinary people?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "The steam engine",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "The printing press",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "The telescope",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "The typewriter",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "How do books contribute to democracy and social reform?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "They encourage silence and discourage debate.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "They spread ideas of equality, rights, and justice.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "They focus only on scientific discoveries.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "They restrict information to elites.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What modern challenge to books is mentioned in the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Digital distractions and reduced attention spans.",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "The lack of libraries in ancient times.",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "The absence of religious texts in society.",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "The dominance of stone inscriptions.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is the concluding idea of the essay?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Books are losing relevance in the digital era.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Books remain essential companions, nurturing knowledge, empathy, and wisdom.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Books should only be used for education, not leisure.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Books primarily serve as economic resources.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-026",
+      "title": "Oats: A Grain of Health and History",
+      "contentFile": "essays/essay-026.txt",
+      "wordCount": 605,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-04",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What distinguishes oats from other cereal grains in terms of nutrition?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "They are primarily a source of refined sugar.",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "They are rich in soluble fiber, particularly beta-glucan.",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "They provide only protein without carbohydrates.",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "They contain no vitamins or minerals.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Historically, which regions first cultivated oats extensively?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Egypt and Mesopotamia",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Northern Europe, especially Scotland and Ireland",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "China and Japan",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "South America",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What modern health benefit of oats is most emphasized in the essay?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Their ability to increase blood sugar levels quickly.",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Their role in reducing cholesterol and supporting heart health.",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Their exclusive use as livestock feed.",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Their high caffeine content.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "Which form of oats is considered the least processed?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Instant oats",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Steel-cut oats",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Rolled oats",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Flavored oat packets",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is the concluding idea of the essay?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Oats are only relevant for livestock and not humans.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Oats symbolize the intersection of tradition, nutrition, and modern health awareness.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Oats are declining in popularity worldwide.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Oats are primarily used for industrial purposes.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "essay-027",
+      "title": "The Rise of Uber: A Startup That Changed Urban Mobility",
+      "contentFile": "essays/essay-027.txt",
+      "wordCount": 612,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-04",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What was Uber’s original value proposition when it launched?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "Offering free rides to all passengers",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "Connecting riders to drivers through a mobile app for convenience",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "Selling luxury cars directly to customers",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "Providing only long-distance intercity transport",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "In which city did Uber first launch its service?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "New York",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "San Francisco",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Chicago",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "Which challenge has Uber frequently faced in different countries?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "Lack of mobile phone adoption",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Regulatory battles and resistance from traditional taxi unions",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "Difficulty in building the app interface",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "Shortage of cars globally",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "What innovation beyond ridesharing is mentioned in the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "Space tourism programs",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "Uber Eats for food delivery",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "Electric bike manufacturing",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "Taxi license distribution",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is the concluding idea of the essay?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Uber’s success was entirely without challenges.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Uber’s story is about innovation, disruption, and reimagining urban mobility.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Uber was unable to expand beyond San Francisco.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Uber is primarily a manufacturing company.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
