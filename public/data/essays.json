@@ -4152,7 +4152,7 @@
       "wordCount": 605,
       "difficulty": "Medium",
       "timeLimit": 15,
-      "createdAt": "2025-10-02",
+      "createdAt": "2025-10-06",
       "questions": [
         {
           "id": "q-001",
@@ -4285,7 +4285,147 @@
           ]
         }
       ]
-    }
-    
+    },
+    {
+      "id": "essay-029",
+      "title": "ChatGPT and the Future of Human-Machine Interaction",
+      "contentFile": "essays/essay-029.txt",
+      "wordCount": 608,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-07",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What is ChatGPT primarily described as in the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "A search engine for financial data",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "A conversational AI system based on large language models",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "A traditional desktop software application",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "A social media platform for chatting with friends",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "According to the essay, what is one of the major strengths of ChatGPT?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "Its ability to replace all forms of human labor instantly",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "Its capacity to generate context-aware, human-like responses",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "Its focus exclusively on mathematical calculations",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "Its entertainment features only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What ethical concern is mentioned in relation to ChatGPT?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "It may spread misinformation if not monitored properly",
+              "isCorrect": true
+            },
+            {
+              "id": "c2",
+              "text": "It lacks enough entertainment features",
+              "isCorrect": false
+            },
+            {
+              "id": "c3",
+              "text": "It refuses to perform language translation",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It cannot be accessed through the internet",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How has ChatGPT influenced education according to the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "By eliminating the need for teachers altogether",
+              "isCorrect": false
+            },
+            {
+              "id": "d2",
+              "text": "By acting as a tutoring aid that explains concepts and assists in learning",
+              "isCorrect": true
+            },
+            {
+              "id": "d3",
+              "text": "By limiting access to online textbooks",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "By replacing physical classrooms with virtual games",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is the essay’s final perspective on ChatGPT?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "It is a temporary trend with no lasting relevance.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "It represents a transformative tool that, if guided responsibly, can enrich society.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "It should only be used for entertainment and jokes.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "It has already replaced human intelligence entirely.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }    
   ]
 }
