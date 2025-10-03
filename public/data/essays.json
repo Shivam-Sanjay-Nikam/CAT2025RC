@@ -4144,6 +4144,148 @@
           ]
         }
       ]
+    },
+    {
+      "id": "essay-028",
+      "title": "Wall Street: Power, Crises, and Influence",
+      "contentFile": "essays/essay-028.txt",
+      "wordCount": 605,
+      "difficulty": "Medium",
+      "timeLimit": 15,
+      "createdAt": "2025-10-05",
+      "questions": [
+        {
+          "id": "q-001",
+          "question": "What does 'Wall Street' primarily symbolize in the essay?",
+          "options": [
+            {
+              "id": "a1",
+              "text": "A physical street in New York with historic buildings",
+              "isCorrect": false
+            },
+            {
+              "id": "a2",
+              "text": "The financial power center representing investment banks, markets, and corporate finance",
+              "isCorrect": true
+            },
+            {
+              "id": "a3",
+              "text": "A cultural district known for art and music",
+              "isCorrect": false
+            },
+            {
+              "id": "a4",
+              "text": "A tourist-only landmark in Manhattan",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-002",
+          "question": "Which major event in 1929 is highlighted in the essay?",
+          "options": [
+            {
+              "id": "b1",
+              "text": "The signing of the Bretton Woods Agreement",
+              "isCorrect": false
+            },
+            {
+              "id": "b2",
+              "text": "The Wall Street Crash leading to the Great Depression",
+              "isCorrect": true
+            },
+            {
+              "id": "b3",
+              "text": "The launch of the first stock exchange",
+              "isCorrect": false
+            },
+            {
+              "id": "b4",
+              "text": "The bailout of major banks after 2008",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-003",
+          "question": "What role did Wall Street play in the 2008 financial crisis?",
+          "options": [
+            {
+              "id": "c1",
+              "text": "It resisted globalization policies",
+              "isCorrect": false
+            },
+            {
+              "id": "c2",
+              "text": "Risky mortgage-backed securities and unchecked speculation triggered the collapse",
+              "isCorrect": true
+            },
+            {
+              "id": "c3",
+              "text": "It shifted entirely to technology investments",
+              "isCorrect": false
+            },
+            {
+              "id": "c4",
+              "text": "It avoided government bailouts altogether",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-004",
+          "question": "How has Wall Street influenced global culture according to the essay?",
+          "options": [
+            {
+              "id": "d1",
+              "text": "By promoting movies, language, and metaphors around finance",
+              "isCorrect": true
+            },
+            {
+              "id": "d2",
+              "text": "By inventing new musical genres",
+              "isCorrect": false
+            },
+            {
+              "id": "d3",
+              "text": "By leading international fashion trends",
+              "isCorrect": false
+            },
+            {
+              "id": "d4",
+              "text": "By funding large-scale archaeological digs",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "q-005",
+          "question": "What is the concluding idea of the essay?",
+          "options": [
+            {
+              "id": "e1",
+              "text": "Wall Street is only a symbol of greed with no positive contributions.",
+              "isCorrect": false
+            },
+            {
+              "id": "e2",
+              "text": "Wall Street embodies both the immense potential and the dangerous pitfalls of finance.",
+              "isCorrect": true
+            },
+            {
+              "id": "e3",
+              "text": "Wall Street has ceased to be relevant in the global economy.",
+              "isCorrect": false
+            },
+            {
+              "id": "e4",
+              "text": "Wall Street only benefits small local businesses in New York.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
+    
   ]
 }
